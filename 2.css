@@ -1,0 +1,29 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(238, 245, 255);
+    position: relative;
+}
+h1{
+    text-align: center;
+}
+.greeting{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #3081D0;
+
+}
+.content{font-size: large;
+  position: relative;
+  left: 10px;
+}
+b{
+    color: #3081D0;
+}
+h3{
+    font-weight: light;
+}
